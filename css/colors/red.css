@@ -4,27 +4,37 @@
 
 
 .home .home-content .hero-title span, .widget-twitter a, footer .social a:hover, .full-menu .full-inner nav ul li a:hover, .full-menu .full-inner .full-contact ul li.title, .full-menu .full-inner .full-contact ul li .social a:hover, .home .home-content .social a:hover i, .titlebar .page-title span, .news-box small, .news-list:hover .news-box .title, .news-article .category, .article-comments .comment-content .reply, .widgets-title, .widget-latest-news ul li a:hover p, .widget-categories ul li a:hover{
-    color: #408697;
+    color: #9DC3CC;
 }
 
 .full-open .nav-icon:hover span, .owl-carousel.work-areas .area .line, .owl-theme .owl-controls .owl-page.active span, .site-btn2:hover{
-	background: #408697 !important;
+	background: #9DC3CC !important;
 }
 
 .cbp-l-loadMore-link{
-    border: solid 2px #408697 !important;
+    border: solid 2px #9DC3CC !important;
 
 }
 
 footer{
-    border-bottom: solid 6px #408697;
+    border-bottom: solid 6px #9DC3CC;
 }
 
 input.inp:focus, textarea.form-message:focus{
-	border-color: #408697;
+	border-color: #9DC3CC;
 }
 
 
+.contact-email {
+  color: #4f535f; /* or your preferred gray */
+  text-decoration: none;
+  font-weight: bold; /* if needed */
+  font-size: 14px;
+}
+
+.contact-email:hover {
+  color: #9DC3CC; /* optional: add hover effect */
+}
 
 
 

@@ -599,13 +599,13 @@ header{
 }
 
 .portfolio-nav .port-next .nav-title{
-    color: #000;
+    color: #4f535f;
     font-size: 60px;
     font-weight: 600;
 }
 
 .portfolio-nav .port-next .next-title{
-    color: #000;
+    color: #4f535f;
     font-size: 30px;
     font-weight: 600;
 }
@@ -704,7 +704,7 @@ header.white .nav-icon span {
 }
 
 .full-open .nav-icon span {
-    background: #000 !important;
+    background: #4f535f !important;
 }
 
 .portfolio-single.type-2 .title{
@@ -940,7 +940,7 @@ header.white .nav-icon span {
     position: absolute;
     height: 4px;
     width: 100%;
-    background: #000;
+    background: #4f535f;
     opacity: 1;
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
